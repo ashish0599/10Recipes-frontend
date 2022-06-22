@@ -1,1 +1,1 @@
-# Recipe Search API using React
+# Recipe Search using React
